@@ -153,7 +153,9 @@ article {margin-top: 10px;}
     display:none
 }
 
-.price, .discount {font-size: 18px;}
+.price {font-size: 18px;}
+
+.discount {font-size: 16px}
 
 .price-discount {
     display:flex;  
